@@ -17,9 +17,9 @@ There are some neccessary library nees to install such as:
 - sklearn
 
 ## File Descriptions
-- There are 2 datasets contain Data_ANN.csv, test_well_4.csv
+- 2 datasets: Data_ANN.csv, test_well_4.csv
 - Test.csv is the dataset saved while clean test_well_4
-- There is 1 notebooks showing all of my data explantory in my project.
+- 1 notebooks showing all of my data explantory in my project.
 
 ## Results<a name="results"></a>
 
