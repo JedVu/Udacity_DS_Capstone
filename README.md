@@ -1,12 +1,12 @@
-# Final Project - Facies (Lithology rock type) Classification using Machine Learning
+# Facies (Lithology rock type) Classification using Machine Learning
 ## Project Scope
-In this project, I made the decision to analyze the data from the drilled wells and use machine learning to forecast the facies (lithology rock type) in the oil and gas field, and to make predictions for other wells based on the model. Facies is a crucial predictor of where oil and gas are located, and there are challenges when there aren't enough data from rock sample. Using additional data and a machine learning technique is one of the best ways to interpret for Facie lithology rock type:
+In this project, I choose to utilize machine learning to analyze the information from the drilled wells, forecast the facies (lithology rock type) in the oil and gas field, and generate forecasts for more wells based on the model. There are difficulties when there are insufficient data from rock samples because facies is a key indicator of where oil and gas are situated. One of the most effective techniques to evaluate Facies lithology rock type is by using additional data and a machine learning technique:
 
-- **Project Overview**: One of the most crucial responsibilities for geoscientists working on development and exploratory projects is the characterization of facies. The physical, chemical, and biological conditions that a unit underwent throughout the sedimentation process are reflected in the sedimentary facies. In this project, I will analyze the data from 4 wells and the well log information to create a model that will predict the facies-lithology rocktype for further wells.
-- **Problem Proposition**: In this study, machine learning algorithms (Neural Networks) are trained to predict facies from well log data using data from continuous logs (NPHI, RHOB, VCL, DT & and discrete log: Facies), in order to create a model for future facies forecast for another well without facies interpretation.
+- **Project Overview**: Characterizing facies is one of the most important tasks for geoscientists working on development and exploratory projects. Sedimentary facies are a reflection of the physical, chemical, and biological conditions that a unit experiences during the sedimentation process. In this project, I will analyze the data from 4 wells and the wells log information to create a model that will predict the facies-lithology rock type for further wells.
+- **Problem Proposition**: In this research, machine learning algorithms (Neural Networks) are trained to predict facies from well log data using data from continuous logs (NPHI, RHOB, VCL, DT & and discrete log: Facies), in order to construct a model for future facies forecast for another well without facies interpretation.
 - **Metrics**: As a classification strategy in this research, we employed performance metrics including recall, accuracy, and F1-Score.
 
-The key of performance metrics used in this study is classification metrics such as precision, recall, and F1-Score was used to validate model, these metrics that comes from the concepts of True Positive, True Negative, False Positive, and False Negative.
+The key of performance Metrics from the True Positive, True Negative, False Positive, and False Negative concepts were used in this study to validate the classification metrics of precision, recall, and F1-Score.
 
 ## Installation
 There are some neccessary library nees to install such as:
@@ -17,12 +17,13 @@ There are some neccessary library nees to install such as:
 - sklearn
 
 ## File Descriptions
-- There are three datasets contain Data_ANN.csv, test_well_4.csv, and Test.csv
+- There are 2 datasets contain Data_ANN.csv, test_well_4.csv
+- Test.csv is the dataset saved while clean test_well_4
 - There is 1 notebooks showing all of my data explantory in my project.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://plum-pedestrian-ee8.notion.site/Rock-Type-Classification-applying-Neural-Network-Machine-Learning-2b24047dad434ac0a716fa444d6d9f09).
+The main findings of the code are available in the post. [here](https://mysterious-shark-0da.notion.site/Rock-Type-Classification-90b8104fd667454186e797fe856ba920).
 
 ## Acknowledgements
 - For more information about comparation between Accuracy and F1_score, you can follow this link (https://medium.com/analytics-vidhya/accuracy-vs-f1-score-6258237beca2)
