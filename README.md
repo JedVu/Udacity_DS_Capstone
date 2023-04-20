@@ -6,7 +6,7 @@ In this project, I made the decision to analyze the data from the drilled wells 
 - **Problem Proposition**: In this study, machine learning algorithms (Neural Networks) are trained to predict facies from well log data using data from continuous logs (NPHI, RHOB, VCL, DT & and discrete log: Facies), in order to create a model for future facies forecast for another well without facies interpretation.
 - **Metrics**: As a classification strategy in this research, we employed performance metrics including recall, accuracy, and F1-Score.
 
-The key of performance Metrics from the True Positive, True Negative, False Positive, and False Negative concepts were used in this study to validate the classification metrics of precision, recall, and F1-Score.
+**The key of performance Metrics** from the True Positive, True Negative, False Positive, and False Negative concepts were used in this study to validate the classification metrics of precision, recall, and F1-Score.
 
 ## Installation
 There are some neccessary library nees to install such as:
@@ -17,9 +17,8 @@ There are some neccessary library nees to install such as:
 - sklearn
 
 ## File Descriptions
-- The well log data can be referenced from this [Github](https://github.com/seg/tutorials-2016/tree/master/1610_Facies_classification)  **But I took data from my university to do this project**
-- 2 datasets: Data_ANN.csv, test_well_4.csv
-- Test.csv is the dataset saved while clean test_well_4
+- The well log data can be referenced from this [Github](https://github.com/seg/tutorials-2016/tree/master/1610_Facies_classification)  
+- Datasets: Data_ANN.csv **I took data from my university to do this project to be different with other in network**
 - 1 notebooks showing all of my data explantory in my project.
 
 ## Results<a name="results"></a>
