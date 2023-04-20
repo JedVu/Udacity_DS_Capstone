@@ -18,7 +18,7 @@ There are some neccessary library nees to install such as:
 
 ## File Descriptions
 - The well log data can be referenced from this [Github](https://github.com/seg/tutorials-2016/tree/master/1610_Facies_classification)  
-- Datasets: Data_ANN.csv **I took data from my university to do this project to be different with other in network**
+- Datasets: Data_ANN.csv **I took data from my university to do this project to be different with other in network**.  
   This is a well log file which contains approximately 27000 lines of data containing data of Resistivity, Spontaneous Potential, Gamma ray, Bulk density, Neutron    and density porosity data. The data can be used to experiment and train small deep learning models.
 - 1 notebooks showing all of my data explantory in my project.
 
