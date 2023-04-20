@@ -17,7 +17,8 @@ There are some neccessary library nees to install such as:
 - sklearn
 
 ## File Descriptions
-- The well log data is referenced from this [Github](https://github.com/seg/tutorials-2016/tree/master/1610_Facies_classification)
+- The well log data can be referenced from this [Github](https://github.com/seg/tutorials-2016/tree/master/1610_Facies_classification)
+** But I took data from my university to do this project
 - 2 datasets: Data_ANN.csv, test_well_4.csv
 - Test.csv is the dataset saved while clean test_well_4
 - 1 notebooks showing all of my data explantory in my project.
